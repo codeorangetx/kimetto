@@ -1,7 +1,5 @@
 # Everything needed in production
 
-setuptools
-wheel==0.29.0
 
 # Flask
 Flask==0.10.1
